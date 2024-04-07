@@ -1,18 +1,15 @@
-# create-svelte
+# SvelteKit starter
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Starter for SvelteKit with FSD, shadcn-svelte and tailwind
 
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
+## How to use
 
 ```bash
-# create a new project in the current directory
-npm create svelte@latest
+  git clone https://github.com/falkomerr/sveltekit-starter.git my-app
 
-# create a new project in my-app
-npm create svelte@latest my-app
+  pnpm install
 ```
+# If you want to use another package manager, just delete pnpm-lock.yaml and use your package manager
 
 ## Developing
 
