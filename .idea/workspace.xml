@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de76af94-93b2-4e94-bc89-32eb18e6133f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/+page.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/+page.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/widgets/header/ui/header.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/widgets/header/ui/header.svelte" afterDir="false" />
     </list>
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1712485756346</updated>
-      <workItem from="1712485757708" duration="6529000" />
+      <workItem from="1712485757708" duration="7430000" />
     </task>
     <servers />
   </component>
