@@ -9,7 +9,7 @@ Starter for SvelteKit with FSD, shadcn-svelte and tailwind
 
   pnpm install
 ```
-# If you want to use another package manager, just delete pnpm-lock.yaml and use your package manager
+### If you want to use another package manager, just delete pnpm-lock.yaml and use your package manager
 
 ## Developing
 
