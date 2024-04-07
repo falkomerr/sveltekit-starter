@@ -13,6 +13,8 @@ Starter for SvelteKit with FSD, shadcn-svelte and tailwind
 
 ## Developing
 
+### [FSD: Architectural methodology](https://feature-sliced.design/)
+
 Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
 ```bash
